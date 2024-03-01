@@ -48,42 +48,52 @@ footer {
     background-color: #333;
     color: #fff;
 }
+
 #bio {
     text-align: center;
-    margin: 5em;
+    margin: 3em;
     display: flex;
     justify-content: space-around;
+    overflow: hidden;
 }
 
 .profile {
     text-align: center;
-    width: 270px; /* Tamaño fijo del cuadro de biografía */
+    width: 250px; /* Tamaño fijo del cuadro de biografía */
 }
 
 .profile img {
-    max-width: 100%;
-    height: auto;
+    width: 240px; /* Ancho fijo para la imagen */
+    height: 300px; /* Altura fija para la imagen */
+    object-fit: cover; /* Cubrir completamente el contenedor manteniendo la relación de aspecto original */
     border-radius: 50%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .profile p {
     margin: 0.5em 0;
+    text-align: justify; /* Ajuste para justificar el texto */
+}
+
+.profile p.name {
+    text-align: center; /* Centrar solo el nombre */
 }
 
 #text1, #text2, #text3 {
     text-align: center;
     margin: 2em;
+    overflow: hidden;
 }
 
 #text2 img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px; /* Hacer las imágenes cuadradas */
+    width: 150px; /* Ancho fijo para la imagen en la sección 2 */
+    height: 150px; /* Altura fija para la imagen en la sección 2 */
+    object-fit: cover;
+    border-radius: 10px;
 }
 
 h2 {
-    background-color: #333; /* Fondo parecido al del h1 */
+    background-color: #333;
     color: #fff;
-    padding: 0.5em; /* Ajustar el espaciado alrededor del texto */
+    padding: 0.5em;
 }
