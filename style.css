@@ -63,7 +63,7 @@ footer {
 }
 
 .profile img {
-    width: 240px; /* Ancho fijo para la imagen */
+    width: 240px; 
     height: 300px; /* Altura fija para la imagen */
     object-fit: cover; /* Cubrir completamente el contenedor manteniendo la relación de aspecto original */
     border-radius: 50%;
