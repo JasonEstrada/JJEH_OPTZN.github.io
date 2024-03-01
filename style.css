@@ -16,22 +16,6 @@ h1 {
     margin: 0;
 }
 
-#bio {
-    text-align: center;
-    margin: 2em;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-p {
-    line-height: 1.6;
-}
-
 a {
     color: #007bff;
     text-decoration: none;
@@ -73,6 +57,7 @@ footer {
 .profile p {
     margin: 0.5em 0;
     text-align: justify; /* Ajuste para justificar el texto */
+    line-height: 1.5;
 }
 
 .profile p.name {
