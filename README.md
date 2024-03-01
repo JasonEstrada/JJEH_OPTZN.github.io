@@ -1,6 +1,6 @@
-# Equipo de Proyecto
+# Group members
 
-## Integrantes
+## members
 - Julian Coll
 - Cristian Cubillos
 - David Escorcia
