@@ -71,8 +71,8 @@ footer {
 }
 
 #text2 img {
-    width: 150px; /* Ancho fijo para la imagen en la sección 2 */
-    height: 150px; /* Altura fija para la imagen en la sección 2 */
+    width: auto; /* Ancho fijo para la imagen en la sección 2 */
+    height: auto; /* Altura fija para la imagen en la sección 2 */
     object-fit: cover;
     border-radius: 10px;
 }
