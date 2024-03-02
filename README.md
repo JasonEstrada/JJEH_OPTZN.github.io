@@ -3,9 +3,9 @@
 ## members
 - Julian Coll
 - Cristian Cubillos
+- Nilson Diaz
 - David Escorcia
-- J
-- Nilson
+- Jason Estrada
 
 ## Dataset
 We chose "Datos Hidrometeorológicos Crudos - Red de Estaciones IDEAM : Temperatura"
