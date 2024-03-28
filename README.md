@@ -7,6 +7,9 @@
 - David Escorcia
 - Jason Estrada
 
+## Page
+[Gitgub page](https://jasonestrada.github.io/JJEH_OPTZN.github.io/)
+
 ## Dataset
 We chose "Datos Hidrometeorológicos Crudos - Red de Estaciones IDEAM : Temperatura"
 
